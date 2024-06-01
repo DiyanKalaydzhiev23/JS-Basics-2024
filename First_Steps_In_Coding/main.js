@@ -1,4 +1,5 @@
-let myName = "dido";
+function myFunc(input) {
 
-console.log("Hello " + myName + ". How are you?");
-console.log(`Hello ${myName}. How are you?`);
+}
+
+myFunc(["5"]);
