@@ -25,13 +25,47 @@
 //     console.log("Not a valid number");
 // }
 
-let personName = "pesho";
+// let personName = "pesho";
 
-switch (personName) {
-    case "pesho":
-        console.log("This is pesho");
-        break;
-    case "diyan":
-        console.log("This is diyan");
-        break;
+// switch (personName) {
+//     case "pesho":
+//         console.log("This is pesho");
+//         break;
+//     case "diyan":
+//         console.log("This is diyan");
+//         break;
+// }
+
+
+// const input = "1:2";
+
+// const [team1, team2] = input.split(":"); // ["1", "2"]
+
+// console.log(team1, team2);
+
+// true && true => true 
+// true && false => false 
+// false && true => false 
+// false && false => false
+
+// true || true => true
+// false || true => true
+// true || false => true
+// false || false => false
+
+// !false => true
+// if (!(5 < 4))
+
+
+// if ("Tuesday") {  // "" === false "ireruefbfbiwfbow" => true
+//     console.log("hi");
+// }
+
+function sumNumbers(num1, num2) {
+    return;
+
+    console.log("hi");
 }
+
+const result = sumNumbers(1, 2);
+console.log(result);
