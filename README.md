@@ -15,3 +15,7 @@
 - [Advanced Conditional Statements](https://forms.gle/GXooFBjDRc52fLF96)
 
 ---
+
+- [For Loops](https://forms.gle/WEp8ME8FpbbQ5VRs7)
+
+---
