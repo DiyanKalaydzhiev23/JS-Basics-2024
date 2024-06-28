@@ -19,3 +19,7 @@
 - [For Loops](https://forms.gle/WEp8ME8FpbbQ5VRs7)
 
 ---
+
+- [While Loops](https://forms.gle/scJGjbP13MU6weeo6)
+
+---
